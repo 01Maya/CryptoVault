@@ -8,7 +8,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "CryptoVault - Your Crypto. Fully in Your Control.",
   description: "Manage, swap, and store your digital assets securely with real-time insights.",
-    generator: 'v0.app'
 }
 
 export default function RootLayout({

@@ -38,7 +38,7 @@ Built with **Next.js, React, and TailwindCSS**, this project demonstrates a prof
 
 ---
 
-### Preview
+### 🚀 Preview
 
 https://crypto-vault-o1.vercel.app/
 

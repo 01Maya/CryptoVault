@@ -46,3 +46,24 @@ https://crypto-vault-o1.vercel.app/
 ### Screenshot
 
 ![Image](https://github.com/user-attachments/assets/23b3e4f6-fc8a-4a24-a33c-4a5ffb0d217c)
+
+
+
+## ⚙️ Installation  
+
+Follow these steps to run the project locally:
+
+```bash
+1. Clone the repository
+   git clone https://github.com/yourusername/nail_studio.git
+
+2. Navigate to the project directory
+   cd nail-studio
+
+3. Install dependencies
+   npm install
+
+4. Start the development server
+   npm run dev
+
+```

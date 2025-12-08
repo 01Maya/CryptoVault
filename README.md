@@ -55,7 +55,7 @@ Follow these steps to run the project locally:
 
 ```bash
 1. Clone the repository
-   git clone https://github.com/yourusername/nail_studio.git
+   git clone https://github.com/yourusername/cryptovault.git
 
 2. Navigate to the project directory
    cd nail-studio

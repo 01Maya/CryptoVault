@@ -58,7 +58,7 @@ Follow these steps to run the project locally:
    git clone https://github.com/yourusername/cryptovault.git
 
 2. Navigate to the project directory
-   cd nail-studio
+   cd cryptovault
 
 3. Install dependencies
    npm install

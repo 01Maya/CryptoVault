@@ -47,7 +47,7 @@ https://crypto-vault-o1.vercel.app/
 
 ![Image](https://github.com/user-attachments/assets/23b3e4f6-fc8a-4a24-a33c-4a5ffb0d217c)
 
-
+---
 
 ## ⚙️ Installation  
 
@@ -67,3 +67,4 @@ Follow these steps to run the project locally:
    npm run dev
 
 ```
+---
